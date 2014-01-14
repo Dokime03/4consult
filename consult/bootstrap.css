@@ -43,6 +43,10 @@ html {
       -ms-text-size-adjust: 100%;
 }
 /*new divs*/
+div.ba {
+background-color:#00FFFF;
+max-width:100%;
+}
 div.backg {
 background-color : #ffffff;
 max-width: 100%;
