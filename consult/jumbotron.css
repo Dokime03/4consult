@@ -16,13 +16,7 @@ src:url:('fa/fonts/quatreg.woff');
 		margin-left:12px;
 		background-position:center;
 		}
-		.hov:hover {
-		background-image:url('med3.png');
-		background-repeat:no-repeat;
-				
-		
-		
-}
+	
 .cl:hover{
 color:rgb(255,39,120);
 }
